@@ -1,9 +1,9 @@
 
-<div align="center">"I want to learn more and more to see as beautiful</div>
-<div align="center">what is necessary in things;</div>
-<div align="center">then I shall be one of those who make things beautiful.</div>
-<div align="center">Amor fati: let that be my love henceforth!</div>
-<div align="center">And all in all and on the whole: someday I wish to be a Yes-sayer."</div> 
+<div align="center"><b>"I want to learn more and more to see as beautiful</div></b>
+<div align="center"><b>what is necessary in things;</div></b>
+<div align="center"><b>then I shall be one of those who make things beautiful.</div></b>
+<div align="center"><b>Amor fati: let that be my love henceforth!</div></b>
+<div align="center"><b>And all in all and on the whole: someday I wish to be a Yes-sayer."</div></b>
 <br>
 <br>
 <br>
