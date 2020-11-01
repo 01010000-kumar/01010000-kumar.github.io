@@ -1,7 +1,6 @@
 # This WebSite is Under Construction.
 <br>
-<br>
-### Will work on it when I get time :yawning_face::v:
+### Will work on it when I get time :yawning_face:
 <br>
 <br>
 <br>
