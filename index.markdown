@@ -12,7 +12,7 @@
 <link rel="icon" type="image/png" sizes="32x32" href="favicon/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="96x96" href="favicon/favicon-96x96.png">
 <link rel="icon" type="image/png" sizes="16x16" href="favicon/favicon-16x16.png">
-<link rel="shortcut icon" type="image/png" href="favicon/favicon.ico">  
+<link rel="shortcut icon" type="image/png" href="favicon/android-icon-72x72.png">  
 </head>
 
 
