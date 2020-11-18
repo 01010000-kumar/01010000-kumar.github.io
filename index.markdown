@@ -31,16 +31,16 @@
 <br>
 <br>
 # Find me at
-#### <img src="https://github.githubassets.com/favicons/favicon-dark.png"> [github](https://github.com/aerosol-can\
+#### <img src="https://github.githubassets.com/favicons/favicon-dark.png"> [github](https://github.com/aerosol-can)
 
 
 #### <img src=""> [twitter](https://twitter.com/a3r0s0l_can)
 
 
-#### <img src="https://instagram.com/static/images/ico/favicon.ico/36b3ee2d91ed.ico width="15" height="15"> [instagram](https://www.instagram.com/aerosol_can.py/)
+#### <img src="https://instagram.com/static/images/ico/favicon.ico/36b3ee2d91ed.ico width="15" height="15"> [instagram](https://www.instagram.com/aerosol_can.py)
 
 
-#### <img src="pic_trulli.jpg"> [linkedin](https://www.linkedin.com/in/prabhat-kumar-01464b193/)
+#### <img src="pic_trulli.jpg"> [linkedin](https://www.linkedin.com/in/prabhat-kumar-01464b193)
 
 
 
