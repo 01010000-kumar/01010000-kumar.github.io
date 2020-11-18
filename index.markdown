@@ -1,8 +1,6 @@
 <head>
 <link rel="shortcut icon" type="image/png" href="favicon/favicon-32x32.png">  
 </head>
-<body style="background-color:#0f0f0f;">
-</body>
 
 
 
