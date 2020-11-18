@@ -42,18 +42,3 @@
 
 
 #### <img src="/favicon/linkedin.ico" width="15" height="15"> [linkedin](https://www.linkedin.com/in/prabhat-kumar-01464b193)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
