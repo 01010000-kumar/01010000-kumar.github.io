@@ -27,7 +27,7 @@
 <br>
 <br>
 
-# Find me at
+# Find me here at
 
 #### <img src="/favicon/github.png" width="15" height="15"> [github](https://github.com/aerosol-can)
 
