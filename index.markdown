@@ -27,12 +27,9 @@
 <br>
 <br>
 
-
-<br>
-<br>
 # Find me at
 
-#### <img src="/favicon/github.ico" width="15" height="15"> [github](https://github.com/aerosol-can)
+#### <img src="/favicon/github.png" width="15" height="15"> [github](https://github.com/aerosol-can)
 
 
 #### <img src="/favicon/twitter.ico" width="15" height="15"> [twitter](https://twitter.com/a3r0s0l_can)
@@ -42,18 +39,3 @@
 
 
 #### <img src="/favicon/linkedin.ico" width="15" height="15"> [linkedin](https://www.linkedin.com/in/prabhat-kumar-01464b193)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
